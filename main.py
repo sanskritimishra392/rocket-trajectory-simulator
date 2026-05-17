@@ -1,6 +1,5 @@
 # ============================================
 # ROCKET TRAJECTORY SIMULATOR
-# Beginner Aerospace + Python Project
 # ============================================
 
 import numpy as np
